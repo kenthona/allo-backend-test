@@ -8,6 +8,9 @@ import java.awt.*;
 
 public class IceTry {
 
+
+    // di dalem fungsi ini, dia bakalan ngejalanin sampe level registry-nya si windows.
+    // oleh karena itu, kalo mau ngejalanin, pake run as admin
     public static void main(String[] args) {
 
         //Create a Document object
